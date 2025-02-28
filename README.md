@@ -56,7 +56,7 @@ TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=
 ### Additional Topics
 - Enumerations ```enum``` [#42](https://youtu.be/DR_nbCKvV98)
 - Exceptions and Error Handling ```try throw catch``` [#43](https://youtu.be/MHUNtxnpPgU)
-- Iterators [#44](https://youtu.be/b39nuYYNtnQ)
+- Iterators ```v.begin() v.end()```[#44](https://youtu.be/b39nuYYNtnQ)
 ### Containers
 - Set ```Set<int> s = {1, 2, 3}``` [#45](https://youtu.be/nfKVyv_up34)
 - Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ``` [#46](https://youtu.be/WmsXJcHCHSs)
