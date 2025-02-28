@@ -28,10 +28,10 @@ TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=
 - Do While Loops ```do {...} while (true)``` [#20](https://youtu.be/I6v34-_0AIY)
 - Break & Continue ```break; continue;``` [#21](https://youtu.be/WJ2RQaj4Mvk)
 - Switch Case Statements ```switch(a) { case 1: ... }``` [#22](https://youtu.be/VKlSWvSS7JI)
-- Rock Paper Scissors [#23](https://youtu.be/YCd8WBeUH1E)
+- Rock Paper Scissors ✊✋✌️ [#23](https://youtu.be/YCd8WBeUH1E)
 ### 2D Arrays
 - Multidimensional/2D Arrays ```int mat[2][2] = {{1, 0}, {0, 1}}``` [#24](https://youtu.be/A4nX2f4xldQ)
-- Tic Tac Toe [#25](https://youtu.be/mNvIqaRFBts)
+- Tic Tac Toe ⭕✖️⭕ [#25](https://youtu.be/mNvIqaRFBts)
 ### Pointers
 - Pointers ```int* ptr = &address``` [#26](https://youtu.be/FSOnAszRFTk)
 - Const Pointers/Pointers to Const ```int* const ptr, const int* ptr``` [#27](https://youtu.be/kP-FfbcFX8k)
