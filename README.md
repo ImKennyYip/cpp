@@ -4,60 +4,64 @@ TOPICS and LINKS:
 - Main Function ```#include iostream using namespace std; int main {} cout<<endl; return 0;``` [#1](https://youtu.be/L8FELWEPYu8)
 - Variables & Data Types ```int float double bool char string``` [#2](https://youtu.be/mwzWVdeyfIY)
 - How to check Variable Types [#3](https://youtu.be/vBxfUHYFHlU)
-- Implicit Type Conversions [#4]()
-- Multiple Variables Declaration in single line [#5]()
-- Math/Arithmetic Operations ```+ - * / %``` [#6]()
-- Type Casting/Explicit Type Conversions [#7]()
-- Increment and Decrement ```++ --``` [#8]()
+- Implicit Type Conversions [#4](https://youtu.be/8TDpwGDwHa8)
+- Multiple Variables Declaration in single line [#5](https://youtu.be/Kp86rk8gxYo)
+- Math/Arithmetic Operations ```+ - * / %``` [#6](https://youtu.be/Do4koudSqp4)
+- Type Casting/Explicit Type Conversions [#7](https://youtu.be/bpl2p49qHAc)
+- Increment and Decrement ```++ --``` [#8](https://youtu.be/ctv4thQ9AKQ)
 ### Conditional
-- If/Else Logic Operators ```if else if, and &&, or ||, not !```
-- If/Else Comparison Operators ```if else if, < <= > >= == !=```
-- Ternary Operators ```(X) ? A : B ```
-- Getting user Input ```cin>> getline()```
-- Practice Problems
+- If/Else Logic Operators ```if else if, and &&, or ||, not !``` [#9](https://youtu.be/Wcvlz-dFAEk)
+- If/Else Comparison Operators ```if else if, < <= > >= == !=``` [#10](https://youtu.be/C5yQZMBBSPw)
+- Ternary Operators ```(X) ? A : B ``` [#11](https://youtu.be/wOxjjy3tKAo)
+- Getting user Input ```cin>> getline()``` [#12](https://youtu.be/xqMaEKd48yU)
+- Practice Problems [#13](https://youtu.be/H-lkybua1as)
 ### Arrays
-- Arrays ```int arr[5] = {5, 10, 15, 20, 25}``` #14
-- Strings & Cstrings ```"ABC" {'a', 'b', 'c'}``` #15
-- Vectors & Dynamic Arrays ```vector<int> v = {1, 2, 3}``` #16
+- Arrays ```int arr[5] = {5, 10, 15, 20, 25}``` [#14](https://youtu.be/TjIUYNdbmFk)
+- Strings & Cstrings ```"ABC" {'a', 'b', 'c'}``` [#15](https://youtu.be/-1muiZieHTA)
+- Vectors & Dynamic Arrays ```vector<int> v = {1, 2, 3}``` [#16](https://youtu.be/OGQQK-hmOpE)
+- Why does index start at 0? [#16.5](https://youtu.be/V4ZrXG60bY4)
 ### Loops
-- For Loops ```for (int i = 0; i < 5; i++ ){ ... }``` #17
-- For Each Loops/Ranged Based For Loops ```for (int x : arr) {...}``` #18
-- While Loops ```while (true) {...}``` #19
-- Do While Loops ```do {...} while (true)``` #20
-- Break & Continue ```break; continue;``` #21
-- Switch Case Statements ```switch(a) { case 1: ... }``` #22
-- Rock Paper Scissors #23
+- For Loops ```for (int i = 0; i < 5; i++ ){ ... }``` [#17](https://youtu.be/dZDpUwtPLWI)
+- For Each Loops/Ranged Based For Loops ```for (int x : arr) {...}``` [#18](https://youtu.be/4yK9LJN87io)
+- While Loops ```while (true) {...}``` [#19](https://youtu.be/dGC_HHo8gD0)
+- Do While Loops ```do {...} while (true)``` [#20](https://youtu.be/I6v34-_0AIY)
+- Break & Continue ```break; continue;``` [#21](https://youtu.be/WJ2RQaj4Mvk)
+- Switch Case Statements ```switch(a) { case 1: ... }``` [#22](https://youtu.be/VKlSWvSS7JI)
+- Rock Paper Scissors [#23](https://youtu.be/YCd8WBeUH1E)
 ### 2D Arrays
-- Multidimensional/2D Arrays ```int mat[2][2] = {{1, 0}, {0, 1}}``` #24
-- Tic Tac Toe #25
+- Multidimensional/2D Arrays ```int mat[2][2] = {{1, 0}, {0, 1}}``` [#24](https://youtu.be/A4nX2f4xldQ)
+- Tic Tac Toe [#25](https://youtu.be/mNvIqaRFBts)
 ### Pointers
-- Pointers ```int* ptr = &address``` #26
-- Const Pointers/Pointers to Const ```int* const ptr, const int* ptr``` (#27)
-- References ```int& ref = object``` (#28)
-- Null Pointers ```nullptr``` (#29)
-- Array Pointers ```int* ptr = {1, 2, 3}``` (#30)
-- Dynamic Memory Allocation ```new delete``` (#31)
-- Dynamically Allocated Arrays ```int* arr = new int[10]``` (#32)
-- Pointer to Pointers ```int** ptrB = &ptrA``` (#33)
+- Pointers ```int* ptr = &address``` [#26](https://youtu.be/FSOnAszRFTk)
+- Const Pointers/Pointers to Const ```int* const ptr, const int* ptr``` [#27](https://youtu.be/kP-FfbcFX8k)
+- References ```int& ref = object``` [#28](https://youtu.be/yoSEkrhmJDU)
+- Null Pointers ```nullptr``` [#29](https://youtu.be/1QMJQ8dCzJQ)
+- Array Pointers ```int* ptr = {1, 2, 3}``` [#30](https://youtu.be/mlTjAmqtNA8)
+- Dynamic Memory Allocation ```new delete``` [#31](https://youtu.be/LFwq0cCyazA)
+- Dynamically Allocated Arrays ```int* arr = new int[10]``` [#32](https://youtu.be/Ny3zrODxzTs)
+- Dynamic Arrays vs Dynamically Allocated Arrays [#32.5](https://youtu.be/6luxAZrZbJc)
+- Pointer to Pointers ```int** ptrB = &ptrA``` [#33](https://youtu.be/xGtGIzu7cME)
 ### Functions
-- Functions (#34)
-- Function Pass by Value, Reference, Const Reference (#35)
-- Function Overloading/Polymorphic Functions (#36)
-- Generics and Templates ```template <typename T>``` (#37)
-- Practice Problems Functions (#38)
-- Recursion (#39)
-- Recursion with Vectors (#40)
-- Global and Local Variable Scope (#41)
+- Functions [#34](https://youtu.be/65PSQUdH5k0)
+- Function Pass by Value, Reference, Const Reference [#35](https://youtu.be/77XcoXwoK2c)
+- Function Overloading/Polymorphic Functions [#36](https://youtu.be/tJPHWF1PboY)
+- When to use Const Reference? [#36.5](https://youtu.be/aP_VwBrPrJw)
+- Generics and Templates ```template <typename T>``` [#37](https://youtu.be/8IgXzTNgQdo)
+- Practice Problems Functions [#38](https://youtu.be/KUbNhBeBoVI)
+- Recursion [#39](https://youtu.be/z588uicHgJM)
+- Recursion with Vectors [#40](https://youtu.be/nCbQiV6NDLQ)
+- Global and Local Variable Scope [#41](https://youtu.be/C0Keab4nfa0)
+- How does recursion work? [#41.5](https://youtu.be/1tk4LrsZMPQ)
 ### Additional Topics
-- Enumerations ```enum``` (#42)
-- Exceptions and Error Handling ```try throw catch``` (#43)
-- Iterators (#44)
+- Enumerations ```enum``` [#42](https://youtu.be/DR_nbCKvV98)
+- Exceptions and Error Handling ```try throw catch``` [#43](https://youtu.be/MHUNtxnpPgU)
+- Iterators [#44](https://youtu.be/b39nuYYNtnQ)
 ### Containers
-- Set ```Set<int> s = {1, 2, 3}``` (#46)
-- Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ``` (#47)
-- Pair  ```Pair<char, int> p = {'A', 1}``` (#48)
-- Typedef (#49)
-- Map ```Map<char, int> m = {{'A':1}, {'B':2}, {'C':3}}``` (#50)
-- Tuple ```Tuple<char, char, int> t = {'A', 'B', '1'}``` (#51)
-- Useful String Functions ```tolower, toupper, islower, isupper, isalpha, isalnum, isdigit, isspace``` (#52)
+- Set ```Set<int> s = {1, 2, 3}``` [#45](https://youtu.be/nfKVyv_up34)
+- Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ``` [#46](https://youtu.be/WmsXJcHCHSs)
+- Pair  ```Pair<char, int> p = {'A', 1}``` [#47](https://youtu.be/FfJcYL-wsoM)
+- Typedef [#48](https://youtu.be/iq6Uca72pws)
+- Map ```Map<char, int> m = {{'A':1}, {'B':2}, {'C':3}}``` [#49](https://youtu.be/3rhgoYJOZwo)
+- Tuple ```Tuple<char, char, int> t = {'A', 'B', '1'}``` [#50](https://youtu.be/rms7mEVXils)
+- Useful String Functions ```tolower, toupper, islower, isupper, isalpha, isalnum, isdigit, isspace``` [#51](https://youtu.be/ii96TL5al4M)
 
