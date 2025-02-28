@@ -1,6 +1,6 @@
 # [C++ Tutorials](https://www.youtube.com/playlist?list=PLnKe36F30Y4ZDNIOZ51sX25pWKQ1pkpTE)
 TOPICS and LINKS:
-1. Main Function ```#include iostream using namespace std; int main {} cout<<endl; return 0;```
+1. Main Function ```#include iostream using namespace std; int main {} cout<<endl; return 0;``` 
 2. Variables & Data Types ```int float double bool char string```
 3. How to check Variable Types
 4. Implicit Type Conversions
