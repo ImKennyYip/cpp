@@ -61,7 +61,7 @@ TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=
 - Set ```Set<int> s = {1, 2, 3}``` [#45](https://youtu.be/nfKVyv_up34)
 - Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ``` [#46](https://youtu.be/WmsXJcHCHSs)
 - Pair  ```Pair<char, int> p = {'A', 1}``` [#47](https://youtu.be/FfJcYL-wsoM)
-- Typedef [#48](https://youtu.be/iq6Uca72pws)
+- Typedef ```typedef Type T``` [#48](https://youtu.be/iq6Uca72pws)
 - Map ```Map<char, int> m = {{'A':1}, {'B':2}, {'C':3}}``` [#49](https://youtu.be/3rhgoYJOZwo)
 - Tuple ```Tuple<char, char, int> t = {'A', 'B', '1'}``` [#50](https://youtu.be/rms7mEVXils)
 - Useful String Functions ```tolower, toupper, islower, isupper, isalpha, isalnum, isdigit, isspace``` [#51](https://youtu.be/ii96TL5al4M)
