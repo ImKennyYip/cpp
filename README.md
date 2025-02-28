@@ -45,3 +45,10 @@ TOPICS and LINKS:
 43. Exceptions and Error Handling ```try throw catch```
 44. Iterators
 45. Set ```Set<int> s = {1, 2, 3}```
+46. Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ```
+47. Pair  ```Pair<char, int> p = {'A', 1}```
+48. Typedef
+49. Map ```Map<char, int> m = {{'A':1}, {'B':2}, {'C':3}}```
+50. Tuple ```Tuple<char, char, int> t = {'A', 'B', '1'}```
+51. Useful String Functions ```tolower, toupper, islower, isupper, isalpha, isalnum, isdigit, isspace```
+
