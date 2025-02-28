@@ -1,5 +1,6 @@
 # [C++ Tutorials](https://www.youtube.com/playlist?list=PLnKe36F30Y4ZDNIOZ51sX25pWKQ1pkpTE)
-TOPICS and LINKS:
+TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=PLnKe36F30Y4ZDNIOZ51sX25pWKQ1pkpTE) on my youtube channel. Code for each topic can be found in the github repository.
+
 ### Data Types
 - Main Function ```#include iostream using namespace std; int main {} cout<<endl; return 0;``` [#1](https://youtu.be/L8FELWEPYu8)
 - Variables & Data Types ```int float double bool char string``` [#2](https://youtu.be/mwzWVdeyfIY)
