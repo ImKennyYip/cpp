@@ -53,11 +53,11 @@ TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=
 - Recursion with Vectors [#40](https://youtu.be/nCbQiV6NDLQ)
 - Global and Local Variable Scope [#41](https://youtu.be/C0Keab4nfa0)
 - How does recursion work? [#41.5](https://youtu.be/1tk4LrsZMPQ)
-### Additional Topics
 - Enumerations ```enum``` [#42](https://youtu.be/DR_nbCKvV98)
 - Exceptions and Error Handling ```try throw catch``` [#43](https://youtu.be/MHUNtxnpPgU)
-- Iterators ```v.begin() v.end()```[#44](https://youtu.be/b39nuYYNtnQ)
+
 ### Containers
+- Iterators ```v.begin() v.end()```[#44](https://youtu.be/b39nuYYNtnQ)
 - Set ```Set<int> s = {1, 2, 3}``` [#45](https://youtu.be/nfKVyv_up34)
 - Useful Math Functions ```min, max, abs, floor, ceil, round pow, sqrt ``` [#46](https://youtu.be/WmsXJcHCHSs)
 - Pair  ```Pair<char, int> p = {'A', 1}``` [#47](https://youtu.be/FfJcYL-wsoM)
