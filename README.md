@@ -65,9 +65,17 @@ TOPICS and LINKS to the [video tutorials](https://www.youtube.com/playlist?list=
 - Map ```Map<char, int> m = {{'A':1}, {'B':2}, {'C':3}}``` [#49](https://youtu.be/3rhgoYJOZwo)
 - Tuple ```Tuple<char, char, int> t = {'A', 'B', '1'}``` [#50](https://youtu.be/rms7mEVXils)
 - Useful String Functions ```tolower, toupper, islower, isupper, isalpha, isalnum, isdigit, isspace``` [#51](https://youtu.be/ii96TL5al4M)
+- Useful Vector Functions ```sort, is_sorted, reverse, replace, fill, max_element, min_element, find, count, shuffle``` [#52](https://youtu.be/DxwPhRxTvmY)
 
 ### File I/O
-- TBD
+- Datetime [#53](https://youtu.be/LhJyQZVDQpQ)
+- File IO (.txt files) ```fstream``` [#54](https://youtu.be/Fvj_QNqYGmw)
+- Practice Problems File IO (.txt files) ```fstream``` [#55](https://youtu.be/wnkHie7_d8s)
+- String Stream ```sstream```[#56](https://youtu.be/KexW0HJD8OY)
+- File IO (.csv files) ```fstream```[#57](https://youtu.be/LfiQj_X-pkA)
+- Practice Problems File IO (.csv files) ```fstream```[#58](https://youtu.be/60qh3ABX0Qs)
+
+
 
 ### Additional Topics
 - TBD
